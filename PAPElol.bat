@@ -1,3 +1,10 @@
+@echo off
+start "" "C:\Path\To\PAPElol.exe"
+@echo off
+start "" "C:\Path\To\PAPElol.exe"
+@echo off
+start "" "C:\Path\To\PAPElol.exe"
+
 start LoL.jpg
 @echo off
 echo fregato
